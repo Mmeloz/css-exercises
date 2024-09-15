@@ -10,12 +10,11 @@
 
 }
 
-.odd.sizefont {
+.sizefont {
     font-size: 24px;
 }
 
 #specialfour {
     background-color: #1b4319fe;
-    font-size: 24px;
     font-weight: bold;
 }
